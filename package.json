@@ -1,0 +1,19 @@
+{
+  "name": "bonesday-bot",
+  "version": "1.0.0",
+  "description": "a bot that tells you whether it is or isn't a bones day. (@jongraz on tiktok)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash-development/bonesday-bot.git"
+  },
+  "author": "ash-development",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ash-development/bonesday-bot/issues"
+  },
+  "homepage": "https://github.com/ash-development/bonesday-bot#readme"
+}
