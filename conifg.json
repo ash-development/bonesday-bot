@@ -1,4 +1,4 @@
 {
-  "token": "insert-bot-token-here",
-  "prefix": "b!"
+  "token": "$REPLIT-TOKEN",
+  "prefix": "bb!"
 }
