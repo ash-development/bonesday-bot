@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ash-development/bonesday-bot/issues"
   },
-  "homepage": "https://github.com/ash-development/bonesday-bot#readme"
+  "homepage": "https://github.com/ash-development/bonesday-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
 }
